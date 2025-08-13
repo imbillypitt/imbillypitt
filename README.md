@@ -36,7 +36,9 @@
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/) [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 <details>
-<summary>📊 Additional Metrics & Stats</summary>
+<summary>
+📊 Additional Metrics & Stats
+</summary>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imbillypitt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -45,7 +47,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imbillypitt&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=imbillypitt&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ### 📊 Weekly Development Breakdown
@@ -71,7 +73,9 @@ Coming soon - showcasing key projects and contributions
 ## 📈 GitHub Analytics / GitHub 分析
 
 <details>
-<summary>📊 GitHub Stats & Top Languages</summary>
+<summary>
+📊 GitHub Stats & Top Languages
+</summary>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imbillypitt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -99,19 +103,11 @@ Coming soon - showcasing key projects and contributions
 ---
 
 <div align="center">
-  <h2 style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FECA57); background-size: 400% 400%; animation: gradient 15s ease infinite; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; font-weight: 900; letter-spacing: 8px; text-transform: uppercase; text-shadow: 0 0 30px rgba(255,255,255,0.5);">
+  <h2 style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FECA57); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; font-weight: 900; letter-spacing: 8px; text-transform: uppercase; text-shadow: 0 0 30px rgba(255,255,255,0.5);">
     "Technology is best when it brings people together."
   </h2>
   
-  <h3 style="background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #f5576c, #4facfe, #00f2fe); background-size: 400% 400%; animation: gradient 15s ease infinite; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2em; font-weight: 800; letter-spacing: 6px; margin-top: 30px; text-shadow: 0 0 25px rgba(255,255,255,0.3);">
+  <h3 style="background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #f5576c, #4facfe, #00f2fe); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2em; font-weight: 800; letter-spacing: 6px; margin-top: 30px; text-shadow: 0 0 25px rgba(255,255,255,0.3);">
     「科技在連結人們時最能發揮價值。」
   </h3>
 </div>
-
-<style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
