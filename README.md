@@ -39,14 +39,15 @@ I'm a professional IT Support specialist focused on delivering technical support
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/) [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 <details>
-<summary>📊 Additional Metrics & Stats</summary>
+<summary>
+📊 Additional Metrics & Stats
+</summary>
 
 > <img src="https://github-profile-trophy.vercel.app/?username=imbillypitt&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 </details>
 
 ---
@@ -66,17 +67,17 @@ Coming soon - showcasing key projects and contributions
 ## 📈 GitHub Analytics / GitHub 分析
 
 <details>
-<summary>📊 GitHub Stats & Top Languages</summary>
-
+<summary>
+📊 GitHub Stats & Top Languages
+</summary>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imbillypitt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbillypitt&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imbillypitt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbillypitt&layout=compact&theme=radical&hide_border=true"/>
 </div>
-
 </details>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imbillypitt&theme=radical" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imbillypitt&theme=radical" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -84,21 +85,19 @@ Coming soon - showcasing key projects and contributions
 ## 🐍 Activity Visualization / 活動視覺化
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake-dark.svg?ts=20250813"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake.svg?ts=20250813"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake.svg?ts=20250813"/>
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake-dark.svg?ts=20250813"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake.svg?ts=20250813"/>
+<img alt="github-snake" src="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake.svg?ts=20250813"/>
+</picture>
 </div>
 
 ---
 
 <div align="center">
-  <h2 style="font-size: 2.5em; color: #00FFFF; text-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 40px #00FFFF; font-weight: bold;">
-    "Technology is best when it brings people together."
-  </h2>
-  
-  <h3 style="font-size: 2em; color: #FF00FF; text-shadow: 0 0 5px #FF00FF, 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 40px #FF00FF; font-weight: bold; margin-top: 30px;">
-    「科技在連結人們時最能發揮價值。」
-  </h3>
+
+## ✨🌟💫 "Technology is best when it brings people together." 💫🌟✨
+
+### 🔥💎🎯「科技在連結人們時最能發揮價值。」🎯💎🔥
+
 </div>
