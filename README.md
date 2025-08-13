@@ -15,7 +15,7 @@
 ## 🎯 Current Focus / 現在專注
 
 - 🔧 Enterprise IT Support Solutions
-- 🌸 Japanese Culture & Travel
+- 🌸 Japanese Culture & Travel  
 - 📈 Financial Markets & Investment
 - 🔗 Blockchain & NFT Research
 - 💡 Tech Innovation Opportunities
@@ -91,8 +91,11 @@ Coming soon - showcasing key projects and contributions
 ## 🐍 Activity Visualization / 活動視覺化
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation" />
-  <img src="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/imbillypitt/imbillypitt/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 <details>
