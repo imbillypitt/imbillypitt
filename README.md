@@ -1,4 +1,4 @@
-# 北比利 / Billy Pitt
+# Billy Yuen
 
 [![Last Commit](https://img.shields.io/github/last-commit/imbillypitt/imbillypitt?style=for-the-badge)](https://github.com/imbillypitt/imbillypitt/commits/main) [![License](https://img.shields.io/github/license/imbillypitt/imbillypitt?style=for-the-badge)](LICENSE)
 
@@ -8,9 +8,9 @@
 
 ## 📖 About / 關於
 
-**EN:** I'm a professional IT Support specialist focused on delivering technical support solutions to improve operational efficiency. I love traveling in Japan and exploring its local culture and cuisine. I have deep experience in the stock market, blockchain, and NFTs, and I actively explore business opportunities that combine technology and innovation.
+I'm a professional IT Support specialist focused on delivering technical support solutions to improve operational efficiency. I love traveling in Japan and exploring its local culture and cuisine. I have deep experience in the stock market, blockchain, and NFTs, and I actively explore business opportunities that combine technology and innovation.
 
-**中文:** 我是一位專業的 IT Support，專注於提供技術支援解決方案，提升企業運營效率。熱愛日本旅遊，關注當地文化與美食體驗。對股票市場、區塊鏈與 NFT 有深入研究，並積極探索科技與創新的商業機會。
+我是一位專業的 IT Support，專注於提供技術支援解決方案，提升企業運營效率。熱愛日本旅遊，關注當地文化與美食體驗。對股票市場、區塊鏈與 NFT 有深入研究，並積極探索科技與創新的商業機會。
 
 ---
 
