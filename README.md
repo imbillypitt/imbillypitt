@@ -53,3 +53,10 @@ I love traveling in Japan and exploring its local culture and cuisine. I have de
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-handle)
 
 </div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imbillypitt&show_icons=true&theme=tokyonight&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imbillypitt&layout=compact&theme=tokyonight)
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
