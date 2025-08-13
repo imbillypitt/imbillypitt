@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack / 技術棧
+## 🛠️ Tech Stack / 技術組合
 
 ### Core Technologies
 
@@ -71,7 +71,7 @@ Coming soon - showcasing key projects and contributions
 
 ## 📬 Contact / 聯絡方式
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-yuen-49272b17a) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-yuen-49272b17a) 
 
 ---
 
@@ -103,14 +103,7 @@ Coming soon - showcasing key projects and contributions
   </picture>
 </div>
 
-<details>
-<summary>📋 原始內容 Original Content</summary>
 
-This section contains original profile content and legacy information.
-
-</details>
-
----
 
 <div align="center">
   <em>"Technology is best when it brings people together."</em>
