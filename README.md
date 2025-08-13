@@ -27,28 +27,21 @@
 ## 🛠️ Tech Stack / 技術組合
 
 ### Core Technologies
+
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://javascript.info/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/) [![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/)
 
 ### Platforms & Tools
+
 [![Windows](https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows/) [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apple.com/macos/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
 
 ### Cloud & DevOps
+
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/) [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 <details>
-<summary>
-📊 Additional Metrics & Stats
-</summary>
+<summary>📊 Additional Metrics & Stats</summary>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imbillypitt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbillypitt&layout=compact&theme=radical&hide_border=true"/>
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imbillypitt&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
+> <img src="https://github-profile-trophy.vercel.app/?username=imbillypitt&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -73,9 +66,7 @@ Coming soon - showcasing key projects and contributions
 ## 📈 GitHub Analytics / GitHub 分析
 
 <details>
-<summary>
-📊 GitHub Stats & Top Languages
-</summary>
+<summary>📊 GitHub Stats & Top Languages</summary>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imbillypitt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -103,11 +94,11 @@ Coming soon - showcasing key projects and contributions
 ---
 
 <div align="center">
-  <h2 style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FECA57); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; font-weight: 900; letter-spacing: 8px; text-transform: uppercase; text-shadow: 0 0 30px rgba(255,255,255,0.5);">
+  <h2 style="font-size: 2.5em; color: #00FFFF; text-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 40px #00FFFF; font-weight: bold;">
     "Technology is best when it brings people together."
   </h2>
   
-  <h3 style="background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #f5576c, #4facfe, #00f2fe); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2em; font-weight: 800; letter-spacing: 6px; margin-top: 30px; text-shadow: 0 0 25px rgba(255,255,255,0.3);">
+  <h3 style="font-size: 2em; color: #FF00FF; text-shadow: 0 0 5px #FF00FF, 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 40px #FF00FF; font-weight: bold; margin-top: 30px;">
     「科技在連結人們時最能發揮價值。」
   </h3>
 </div>
