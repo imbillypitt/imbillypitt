@@ -16,32 +16,27 @@
 
 ## 🎯 Current Focus / 現在專注
 
-- 🔧 Enterprise IT Support Solutions
-- 🌸 Japanese Culture & Travel  
-- 📈 Financial Markets & Investment
-- 🔗 Blockchain & NFT Research
-- 💡 Tech Innovation Opportunities
+- • 🔧 Enterprise IT Support Solutions
+- • 🌸 Japanese Culture & Travel
+- • 📈 Financial Markets & Investment
+- • 🔗 Blockchain & NFT Research
+- • 💡 Tech Innovation Opportunities
 
 ---
 
 ## 🛠️ Tech Stack / 技術組合
 
 ### Core Technologies
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.info/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/) [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://javascript.info/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/) [![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/)
 
 ### Platforms & Tools
-
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows/) [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://apple.com/macos/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows/) [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apple.com/macos/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
 
 ### Cloud & DevOps
-
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/) [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 <details>
 <summary>📊 Additional Metrics & Stats</summary>
-
-### 📊 Detailed Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imbillypitt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -49,13 +44,11 @@
 </div>
 
 ### 🏆 GitHub Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imbillypitt&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ### 📊 Weekly Development Breakdown
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -71,7 +64,7 @@ Coming soon - showcasing key projects and contributions
 
 ## 📬 Contact / 聯絡方式
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-yuen-49272b17a) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-yuen-49272b17a)
 
 ---
 
@@ -103,10 +96,22 @@ Coming soon - showcasing key projects and contributions
   </picture>
 </div>
 
-
+---
 
 <div align="center">
-  <em>"Technology is best when it brings people together."</em>
-  <br/>
-  <em>「科技在連結人們時最能發揮價值。」</em>
+  <h2 style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FECA57); background-size: 400% 400%; animation: gradient 15s ease infinite; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; font-weight: 900; letter-spacing: 8px; text-transform: uppercase; text-shadow: 0 0 30px rgba(255,255,255,0.5);">
+    "Technology is best when it brings people together."
+  </h2>
+  
+  <h3 style="background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #f5576c, #4facfe, #00f2fe); background-size: 400% 400%; animation: gradient 15s ease infinite; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2em; font-weight: 800; letter-spacing: 6px; margin-top: 30px; text-shadow: 0 0 25px rgba(255,255,255,0.3);">
+    「科技在連結人們時最能發揮價值。」
+  </h3>
 </div>
+
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
