@@ -96,11 +96,6 @@ Coming soon - showcasing key projects and contributions
 <div align="center">
 
 ## ✨🌟💫 "Technology is best when it brings people together." 💫🌟✨
-
-![Technology Badge](https://img.shields.io/badge/💡%20Technology%20is%20best%20when%20it%20brings%20people%20together-FF1493?style=for-the-badge&labelColor=FF6347&color=FF1493&logoColor=white)
-
 ### 🔥💎🎯「科技在連結人們時最能發揮價值。」🎯💎🔥
-
-![Tech Value Badge](https://img.shields.io/badge/🚀%20科技在連結人們時最能發揮價值-00FFFF?style=for-the-badge&labelColor=FF4500&color=00FFFF&logoColor=black)
 
 </div>
